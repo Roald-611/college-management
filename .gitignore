@@ -1,0 +1,5 @@
+node_modules
+.env
+batches.bson
+batches.metadata.json
+package-lock.json
